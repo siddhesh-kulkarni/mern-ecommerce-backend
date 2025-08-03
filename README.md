@@ -26,12 +26,5 @@ cd mern-ecommerce-backend
 # 3️⃣ Install dependencies
 npm install
 
-# 4️⃣ Create a .env file and add your environment variables
-# Example:
-# MONGO_URI=your_mongo_connection_string
-# PORT=5000
-
-# 5️⃣ Start the development server
-npm run dev
 The backend server will be running on:
 🌐 http://localhost:5000
