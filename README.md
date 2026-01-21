@@ -28,3 +28,6 @@ npm install
 
 The backend server will be running on:
 🌐 http://localhost:5000
+
+## Install other dependencies
+1. jwt, cors, sequlize
