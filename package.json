@@ -11,17 +11,24 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "axios": "^1.13.4",
     "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.2",
     "cors": "^2.8.5",
     "cronjob": "^0.1.0",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
+    "express-rate-limit": "^8.2.1",
+    "google-auth-library": "^10.5.0",
+    "joi": "^18.0.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.17.0",
     "multer": "^2.0.2",
+    "nirmitee-logger": "^0.0.1",
     "pg": "^8.17.2",
     "pg-hstore": "^2.3.4",
-    "sequelize": "^6.37.7"
+    "sequelize": "^6.37.7",
+    "short-uuid": "^6.0.3"
   },
   "devDependencies": {
     "nodemon": "^3.1.11"
