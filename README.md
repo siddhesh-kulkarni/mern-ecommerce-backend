@@ -5,7 +5,7 @@ Built with Node.js, Express, and MongoDB.
 Features
 🛍️ RESTful API for products, users, orders
 
-🗄️ MongoDB database integration
+🗄️ PostgreSQL database integration
 
 🔐 JWT authentication
 
@@ -30,4 +30,4 @@ The backend server will be running on:
 🌐 http://localhost:5000
 
 ## Install other dependencies
-1. jwt, cors, sequlize, express
+1. jwt, cors, sequlize, express, pg-hstore, seqeuqlize, dotenv
