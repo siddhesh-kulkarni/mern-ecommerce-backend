@@ -1,6 +1,7 @@
 MERN E-Commerce Backend
 This is the backend server for the MERN E-Commerce web app.
-Built with Node.js, Express, and MongoDB.
+Built with Node.js, Express, and Postgress.
+Use sequlize
 
 Features
 🛍️ RESTful API for products, users, orders
