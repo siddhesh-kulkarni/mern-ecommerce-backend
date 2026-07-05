@@ -32,4 +32,4 @@ The backend server will be running on:
 
 ## Install other dependencies
 1. jwt, cors, sequlize, express, pg-hstore, seqeuqlize, dotenv
- We can use rate limirr also
+ We can use rate limiter also
