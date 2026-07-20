@@ -9,7 +9,6 @@ Features
 🗄️ PostgreSQL database integration
 
 🔐 JWT authentication
-
 🛡️ Secure routes with middleware
 
 Getting Started 🚀
