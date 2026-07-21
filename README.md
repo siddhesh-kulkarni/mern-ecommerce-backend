@@ -33,3 +33,5 @@ The backend server will be running on:
 1. jwt, cors, sequlize, express, pg-hstore, seqeuqlize, dotenv
  We can use rate limiter also
 need to add microservices project 
+
+update it
